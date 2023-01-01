@@ -23,7 +23,7 @@ This is the repository for utilizing pNEUMA Vision dataset.
 
 - You can download the dataset from the following links: [link](https://doi.org/10.5281/zenodo.7426506)
 
-- If you are using this dataset, please cite the following paper: [paper link here]
+- If you are using this dataset, please cite the following paper: [paper link](https://doi.org/10.1016/j.trc.2022.103966)
 
 - If you want to contribute to this dataset and repository please contact us at: sohyeong.kim@epfl.ch
 
