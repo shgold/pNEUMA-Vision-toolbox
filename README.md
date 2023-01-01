@@ -1,6 +1,6 @@
 # pNUEMA-Vision-toolbox
 
-This is the repository for utilizing pNEUMA Vision dataset. This repository is under construction and will be updated once the paper is published.
+This is the repository for utilizing pNEUMA Vision dataset.
 
 ## Contents:
 - [Dataset Overview](#dataset-overview)
@@ -21,7 +21,7 @@ This is the repository for utilizing pNEUMA Vision dataset. This repository is u
         - vehicle type
         - timestamp
 
-- You can download the dataset from the following links: [link here]
+- You can download the dataset from the following links: [link](https://doi.org/10.5281/zenodo.7426506)
 
 - If you are using this dataset, please cite the following paper: [paper link here]
 
