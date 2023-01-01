@@ -80,7 +80,7 @@ This is the repository for utilizing pNEUMA Vision dataset.
 
 
 ## Toolbox Overview
-- This toolbox is a collection of functions that can be used to process bounding boxes for pNEUMA Vision dataset as per in the (paper)[link_here].
+- This toolbox is a collection of functions that can be used to process bounding boxes for pNEUMA Vision dataset as per in the [paper](https://doi.org/10.1016/j.trc.2022.103966).
 - You can create two types of bounding boxes: rotated and axis-aligned.
 - Session defines the time interval of the video. Please note the session number like following. 
     - session 1 is equivalent to 08:00 - 08:30
