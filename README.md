@@ -1,4 +1,4 @@
-# pNUEMA-Vision-toolbox
+# pNEUMA-Vision-toolbox
 
 This is the repository for utilizing pNEUMA Vision dataset.
 
@@ -15,7 +15,7 @@ This is the repository for utilizing pNEUMA Vision dataset.
         - images of frame
         - vehicle locations (x, y coordinates in image)
         - azimuths (clockwise, x-axis being 0&deg;)
-    - **Inherited Features (from pNUEMA)**
+    - **Inherited Features (from pNEUMA)**
         - vehicle ID
         - vehicle type
         - timestamp
